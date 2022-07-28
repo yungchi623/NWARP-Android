@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/MobileAcceleratorGame/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.10462962962962963" />
+        <entry key="..\:/MobileAcceleratorGame/app/src/main/res/drawable/dot_grey_shape.xml" value="0.10740740740740741" />
+        <entry key="..\:/MobileAcceleratorGame/app/src/main/res/drawable/ic_launcher_background.xml" value="0.10462962962962963" />
+        <entry key="..\:/MobileAcceleratorGame/app/src/main/res/drawable/ic_menu_camera.xml" value="0.1" />
+        <entry key="..\:/MobileAcceleratorGame/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.1" />
+        <entry key="..\:/MobileAcceleratorGame/app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.1" />
+        <entry key="..\:/MobileAcceleratorGame/app/src/main/res/drawable/side_nav_bar.xml" value="0.1" />
+        <entry key="..\:/MobileAcceleratorGame/app/src/main/res/layout/activity_accelerator.xml" value="0.1634963768115942" />
+        <entry key="..\:/MobileAcceleratorGame/app/src/main/res/layout/activity_main.xml" value="0.16" />
+        <entry key="..\:/MobileAcceleratorGame/app/src/main/res/layout/activity_miaoli_menu.xml" value="0.11684782608695653" />
+        <entry key="..\:/MobileAcceleratorGame/app/src/main/res/layout/activity_navigation.xml" value="0.11594202898550725" />
+        <entry key="..\:/MobileAcceleratorGame/app/src/main/res/layout/activity_need_subscribe.xml" value="0.1466565349544073" />
+        <entry key="..\:/MobileAcceleratorGame/app/src/main/res/layout/activity_pager.xml" value="0.14488348530901723" />
+        <entry key="..\:/MobileAcceleratorGame/app/src/main/res/layout/activity_private.xml" value="0.14513677811550152" />
+        <entry key="..\:/MobileAcceleratorGame/app/src/main/res/layout/activity_profile.xml" value="0.25" />
+        <entry key="..\:/MobileAcceleratorGame/app/src/main/res/layout/activity_subscribe.xml" value="0.17806484295845998" />
+        <entry key="..\:/MobileAcceleratorGame/app/src/main/res/layout/activity_support.xml" value="0.14893617021276595" />
+        <entry key="..\:/MobileAcceleratorGame/app/src/main/res/layout/activity_tabbed.xml" value="0.1466565349544073" />
+        <entry key="..\:/MobileAcceleratorGame/app/src/main/res/layout/activity_user_agree.xml" value="0.14513677811550152" />
+        <entry key="..\:/MobileAcceleratorGame/app/src/main/res/layout/app_bar_navigation.xml" value="0.12454710144927536" />
+        <entry key="..\:/MobileAcceleratorGame/app/src/main/res/layout/content_accelerator.xml" value="0.22" />
+        <entry key="..\:/MobileAcceleratorGame/app/src/main/res/layout/content_navigation.xml" value="0.12454710144927536" />
+        <entry key="..\:/MobileAcceleratorGame/app/src/main/res/layout/custom_action_bar_layout.xml" value="0.1466565349544073" />
+        <entry key="..\:/MobileAcceleratorGame/app/src/main/res/layout/custom_profile_bar_layout.xml" value="0.14893617021276595" />
+        <entry key="..\:/MobileAcceleratorGame/app/src/main/res/layout/custom_support_bar_layout.xml" value="0.14893617021276595" />
+        <entry key="..\:/MobileAcceleratorGame/app/src/main/res/layout/custom_text_bar.xml" value="0.15045592705167174" />
+        <entry key="..\:/MobileAcceleratorGame/app/src/main/res/layout/fragment__view01.xml" value="0.13779128672745694" />
+        <entry key="..\:/MobileAcceleratorGame/app/src/main/res/layout/fragment__view02.xml" value="0.13779128672745694" />
+        <entry key="..\:/MobileAcceleratorGame/app/src/main/res/layout/fragment__view03.xml" value="0.13779128672745694" />
+        <entry key="..\:/MobileAcceleratorGame/app/src/main/res/layout/fragment_gallery.xml" value="0.12454710144927536" />
+        <entry key="..\:/MobileAcceleratorGame/app/src/main/res/layout/fragment_home.xml" value="0.12454710144927536" />
+        <entry key="..\:/MobileAcceleratorGame/app/src/main/res/layout/fragment_login.xml" value="0.12454710144927536" />
+        <entry key="..\:/MobileAcceleratorGame/app/src/main/res/layout/fragment_profile.xml" value="0.11594202898550725" />
+        <entry key="..\:/MobileAcceleratorGame/app/src/main/res/layout/fragment_slideshow.xml" value="0.12454710144927536" />
+        <entry key="..\:/MobileAcceleratorGame/app/src/main/res/layout/fragment_tabbed.xml" value="0.1466565349544073" />
+        <entry key="..\:/MobileAcceleratorGame/app/src/main/res/layout/header_miaoli.xml" value="0.11684782608695653" />
+        <entry key="..\:/MobileAcceleratorGame/app/src/main/res/layout/header_miaoli2.xml" value="0.11684782608695653" />
+        <entry key="..\:/MobileAcceleratorGame/app/src/main/res/layout/my_pagers.xml" value="0.14488348530901723" />
+        <entry key="..\:/MobileAcceleratorGame/app/src/main/res/layout/nav_header_navigation.xml" value="0.12454710144927536" />
+        <entry key="..\:/MobileAcceleratorGame/app/src/main/res/layout/profile_fragment.xml" value="0.11594202898550725" />
+        <entry key="..\:/MobileAcceleratorGame/app/src/main/res/layout/sign_in_fragment.xml" value="0.15579710144927536" />
+        <entry key="..\:/MobileAcceleratorGame/app/src/main/res/layout/viewpage_1.xml" value="0.14221014492753623" />
+        <entry key="..\:/MobileAcceleratorGame/app/src/main/res/layout/viewpage_2.xml" value="0.14221014492753623" />
+        <entry key="..\:/MobileAcceleratorGame/app/src/main/res/menu/activity_main_drawer.xml" value="0.178125" />
+        <entry key="..\:/MobileAcceleratorGame/app/src/main/res/menu/navigation.xml" value="0.178125" />
+        <entry key="..\:/new/mobileacceleratorgame/app/src/main/res/drawable-xhdpi/support_image_shap.xml" value="0.18857142857142858" />
+        <entry key="..\:/new/mobileacceleratorgame/app/src/main/res/drawable/support_shap.xml" value="0.12552083333333333" />
+        <entry key="..\:/new/mobileacceleratorgame/app/src/main/res/layout/activity_accelerator.xml" value="0.1" />
+        <entry key="..\:/new/mobileacceleratorgame/app/src/main/res/layout/activity_main.xml" value="0.2947761194029851" />
+        <entry key="..\:/new/mobileacceleratorgame/app/src/main/res/layout/activity_private.xml" value="0.125" />
+        <entry key="..\:/new/mobileacceleratorgame/app/src/main/res/layout/activity_profile.xml" value="0.3828571428571429" />
+        <entry key="..\:/new/mobileacceleratorgame/app/src/main/res/layout/activity_subscribe.xml" value="0.36614583333333334" />
+        <entry key="..\:/new/mobileacceleratorgame/app/src/main/res/layout/activity_support.xml" value="0.36614583333333334" />
+        <entry key="..\:/new/mobileacceleratorgame/app/src/main/res/layout/activity_user_agree.xml" value="0.20520833333333333" />
+        <entry key="..\:/new/mobileacceleratorgame/app/src/main/res/layout/custom_action_bar_layout.xml" value="0.31645569620253167" />
+        <entry key="..\:/new/mobileacceleratorgame/app/src/main/res/layout/custom_dialog.xml" value="0.11041666666666666" />
+        <entry key="..\:/new/mobileacceleratorgame/app/src/main/res/layout/custom_text_bar.xml" value="0.32294617563739375" />
+        <entry key="..\:/new/mobileacceleratorgame/app/src/main/res/layout/row_item.xml" value="0.25" />
+        <entry key="..\:/new/mobileacceleratorgame/app/src/main/res/layout/support_image_shap.xml" value="0.25" />
+        <entry key="..\:/new/mobileacceleratorgame/app/src/main/res/layout/support_shap.xml" value="0.125" />
+        <entry key="..\:/tmp/mobileacceleratorgame/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.14114583333333333" />
+        <entry key="..\:/tmp/mobileacceleratorgame/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/tmp/mobileacceleratorgame/app/src/main/res/drawable/ic_menu_camera.xml" value="0.14114583333333333" />
+        <entry key="..\:/tmp/mobileacceleratorgame/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.14114583333333333" />
+        <entry key="..\:/tmp/mobileacceleratorgame/app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.14114583333333333" />
+        <entry key="..\:/tmp/mobileacceleratorgame/app/src/main/res/drawable/side_nav_bar.xml" value="0.14114583333333333" />
+        <entry key="..\:/tmp/mobileacceleratorgame/app/src/main/res/layout/activity_accelerator.xml" value="0.2046875" />
+        <entry key="..\:/tmp/mobileacceleratorgame/app/src/main/res/layout/activity_main.xml" value="0.18857142857142858" />
+        <entry key="..\:/tmp/mobileacceleratorgame/app/src/main/res/layout/activity_main2.xml" value="0.2046875" />
+        <entry key="..\:/tmp/mobileacceleratorgame/app/src/main/res/layout/activity_private.xml" value="0.2046875" />
+        <entry key="..\:/tmp/mobileacceleratorgame/app/src/main/res/layout/activity_profile.xml" value="0.3360995850622407" />
+        <entry key="..\:/tmp/mobileacceleratorgame/app/src/main/res/layout/activity_subscribe.xml" value="0.1" />
+        <entry key="..\:/tmp/mobileacceleratorgame/app/src/main/res/layout/activity_support.xml" value="0.2046875" />
+        <entry key="..\:/tmp/mobileacceleratorgame/app/src/main/res/layout/activity_user_agree.xml" value="0.2046875" />
+        <entry key="..\:/tmp/mobileacceleratorgame/app/src/main/res/layout/custom_action_bar_layout.xml" value="0.2046875" />
+        <entry key="..\:/tmp/mobileacceleratorgame/app/src/main/res/layout/custom_text_bar.xml" value="0.12244897959183673" />
+        <entry key="..\:/tmp/mobileacceleratorgame/app/src/main/res/layout/row_item.xml" value="0.2046875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
